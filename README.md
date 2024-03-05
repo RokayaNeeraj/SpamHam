@@ -33,3 +33,14 @@ This Jupyter Notebook automates the process of building a Support Vector Machine
 - AUC Score: The model achieves an average AUC score of 0.98 across folds, indicating good discrimination between spam and ham emails.
 - Feature Importance: Features like email length, capital letter count, URL count, and presence of spam phrases seem to play a significant role in spam detection.
 - Further Exploration: Explore other feature engineering techniques, different machine learning algorithms, and hyperparameter tuning for potential performance improvements.
+
+## Getting Started:
+
+- Clone or download this repository.
+- Install required libraries: pandas, numpy, os, re, scikit-learn, seaborn, matplotlib, gensim.
+- Execute the Jupyter Notebook.
+
+## Note:
+
+- This is a basic example and may require adjustments for specific datasets and requirements.
+- Consider incorporating domain knowledge and ethical considerations when building spam detection models.
